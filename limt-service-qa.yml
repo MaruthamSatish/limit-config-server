@@ -1,0 +1,3 @@
+limit-service:
+      maxValue: 30
+      minimumValue: 20
